@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTJSEnvironment.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h

@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/DevSupport/RCTPackagerConnection.m \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/DevSupport/RCTPackagerConnectionBridgeConfig.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/DevSupport/RCTPackagerConnectionConfig.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h

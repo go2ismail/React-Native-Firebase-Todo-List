@@ -1,0 +1,29 @@
+{
+  "name": "ReactNativeFirebaseTodoList",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/react-addons-pure-render-mixin": "^0.14.17",
+    "firebase": "^4.8.0",
+    "lodash": "^4.17.4",
+    "react": "16.0.0",
+    "react-native": "0.51.0",
+    "react-native-router-flux": "^3.43.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

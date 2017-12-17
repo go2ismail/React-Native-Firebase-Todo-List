@@ -1,0 +1,2 @@
+dependencies: \
+  /Users/ismailhamzah/Documents/reactnative/ReactNativeFirebaseTodoList/ios/build/Build/Intermediates.noindex/ReactNativeFirebaseTodoList.build/Debug-iphonesimulator/ReactNativeFirebaseTodoList.build/DerivedSources/ReactNativeFirebaseTodoList_vers.c
