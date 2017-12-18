@@ -7,14 +7,15 @@ import reducers from './reducers';
 import Router from './Router';
 
 class App extends Component {
+    //change with your own firebase config
     componentWillMount() {
         var config = {
-            apiKey: 'AIzaSyBbEmAODaoKZV8UkICp_OkQXwycodASal0',
-            authDomain: 'reactnativesimpletodofirebase.firebaseapp.com',
-            databaseURL: 'https://reactnativesimpletodofirebase.firebaseio.com',
-            projectId: 'reactnativesimpletodofirebase',
-            storageBucket: 'reactnativesimpletodofirebase.appspot.com',
-            messagingSenderId: '900067693066'
+            apiKey: 'xxx',
+            authDomain: 'xxx',
+            databaseURL: 'xxx',
+            projectId: 'xxx',
+            storageBucket: 'xxx',
+            messagingSenderId: 'xxx'
           };
           firebase.initializeApp(config);
     }

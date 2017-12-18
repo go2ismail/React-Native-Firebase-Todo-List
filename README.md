@@ -22,6 +22,7 @@ Very Simple Todo List App Example Developed Using React Native and Firebase. To 
 # Install
 
 - download / clone the repo
+- change the firebase config with your own config './src/App.js'
 - execute 'npm install'
 - execute 'react-native run-ios' for IOS
 - execute 'react-native run-android' for Android
