@@ -1,9 +1,14 @@
+# key
+android/gradle.properties
+src/firebase/index.js
+
+# OSX
+#
+.DS_Store
+
 # Xcode
-!**/*.xcodeproj
-!**/*.pbxproj
-!**/*.xcworkspacedata
-!**/*.xcsettings
-!**/*.xcscheme
+#
+build/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -21,40 +26,21 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
-# Gradle
-/build/
-/RNTester/android/app/build/
-/RNTester/android/app/gradle/
-/RNTester/android/app/gradlew
-/RNTester/android/app/gradlew.bat
-/ReactAndroid/build/
-
-# Buck
-.buckd
-buck-out
-/ReactAndroid/src/main/jni/prebuilt/lib/armeabi-v7a/
-/ReactAndroid/src/main/jni/prebuilt/lib/x86/
-/ReactAndroid/src/main/gen
-
-# Android
+# Android/IntelliJ
+#
+build/
 .idea
 .gradle
 local.properties
 *.iml
 
+# node.js
+#
+node_modules/
+npm-debug.log
 
-# Node
-node_modules
-*.log
-.nvm
-/danger/node_modules/
-
-# OS X
-.DS_Store
-
-# Test generated files
-/ReactAndroid/src/androidTest/assets/AndroidTestBundle.js
-*.js.meta
-
-/coverage
-/third-party
+# BUCK
+buck-out/
+\.buckd/
+android/app/libs
+*.keystore
